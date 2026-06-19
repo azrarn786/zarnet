@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://zarnettechnology.netlify.app/sitemap.xml
